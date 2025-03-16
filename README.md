@@ -18,7 +18,7 @@
 ✔ Blocking and responding to attacks in our simulated SOC environment  
 
 #
-### Lab 2: Cybersecurity Detection & Monitoring Lab | [View Github Repository](https://github.com/timothydarosa/Cybersecurity-Detection-Monitoring-Lab)
+### Lab 2: Cybersecurity Detection & Monitoring Lab | [View Github Repository](https://github.com/timothydarosa/Cyber-Detection-Monitoring-Lab)
 
 <h4>Building a Cybersecurity home lab utilizing VMware and pfSense for secure network simulations, apply Security Onion for threat detection, and prepare Kali Linux for attack simulations. You'll also gain experience in configuring Windows systems and using Splunk, as well as integrating various Linux machines for diverse cybersecurity scenarios. I will be following along with cyberwox and cybermentor's walkthroughs for this homelab. We also used domain controllers and Active Directory</h4>
 
